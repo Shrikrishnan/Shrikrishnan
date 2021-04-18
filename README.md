@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 ## I'm Shrikrishnan Balakrishnan
 
 <div>
-<a href="https://www.linkedin.com/in/shrikrishnan-balakrishnan-498b3810a/" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
+<a href="https://www.linkedin.com/in/shrikrishnan-balakrishnan-498b3810a/" target="_blank"><img src='https://1000logos.net/wp-content/uploads/2017/03/LinkedIn-Logo-2003.jpg' alt='LinkedIn' width="8%"></a>
 </div>
 
 I am an _full-stack developer_.
