@@ -23,8 +23,8 @@ Technologies which I teach and use:
 ### Frontend Technologies
 
 <div>
-  <img src ="./images/html-5.svg" alt="HTML5 logo" width="6%" title='HTML5'/>
-  <img src ="./images/css-3.svg" alt="CSS3 logo" width="6%" title='CSS3'/>
+  <img src ="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" alt="HTML5 logo" width="6%" title='HTML5'/>
+  <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPaHtpAYgaYH6v286YMUXL6Jg9za3yxNj-uA&usqp=CAU" alt="CSS3 logo" width="6%" title='CSS3'/>
   <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="8%" title='Bootstrap'/>
   <img src ="./images/sass.svg" alt="Sass logo" width="8%" title='Sass'/>
   <img src ="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" width="8%" title='JavaScript'/>
