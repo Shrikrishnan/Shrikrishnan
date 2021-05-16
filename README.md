@@ -38,8 +38,7 @@ Technologies which I teach and use:
 <div>
   <img src ="./images/nodejs.svg" alt="Node logo" width="8%" title='Nodejs'/>
   <img src ="./images/express.svg" alt="express logo" width="8%" title='Express'/>
-  <img src ="./images/mongodb.svg" alt="D3 logo" width="8%" title='MongoDB'/>
-  <img src ="./images/sqlite.svg" alt="sqlite logo" width="8%" title='sqlite'/>
+  <img src ="..svg" alt="sqlite logo" width="8%" title='sqlite'/>
 </div>
 
 ### Tools
