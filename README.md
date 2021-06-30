@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 I am an _full-stack developer_.
 Technologies which I teach and use:
 
-### Frontend Technologies
+<!-- ### Frontend Technologies
 
 <div>
   <img src ="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" alt="HTML5 logo" width="6%" title='HTML5'/>
@@ -60,3 +60,4 @@ Technologies which I teach and use:
 ---
 
 <small> _I am a lifelong learner and I love teaching and inspiring people_. </small>
+ -->
