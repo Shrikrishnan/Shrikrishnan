@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 I am an _full-stack developer_.
-Technologies which I teach and use:
+<!-- Technologies which I teach and use: -->
 
 <!-- ### Frontend Technologies
 
@@ -60,4 +60,3 @@ Technologies which I teach and use:
 ---
 
 <small> _I am a lifelong learner and I love teaching and inspiring people_. </small>
- -->
