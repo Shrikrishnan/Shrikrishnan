@@ -18,4 +18,4 @@ I'm a software developer based in Tiruchirappalli City in Tamil Nadu.
 
 ------
 
-Made with :heart: and Shrikrishnan Balakrishnan
+Made with :heart: by Shrikrishnan Balakrishnan
