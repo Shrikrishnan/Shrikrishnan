@@ -2,7 +2,6 @@
 
 ## I'm Shrikrishnan Balakrishnan !
 
-
 ## :rocket: Let's Begin the Game
 
 I'm a software developer based in Tiruchirappalli City in Tamil Nadu. 
