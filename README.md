@@ -1,6 +1,5 @@
 # Hi Everyone 👋!
 
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+Everyone!!!;I'm+Shrikrishnan+Balakrishnan.;A+Senior+Software+Engineer." alt="Typing Intro">
 </p>
